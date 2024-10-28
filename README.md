@@ -3,20 +3,13 @@
 ---
 
 **Feel free to reach out!**
-> 📫
-> **[alekseis.naumov@gmail.com](mailto:alekseis.naumov@gmail.com)**
+> 📫 [**alekseis.naumov@gmail.com**](mailto:alekseis.naumov@gmail.com)\
+> <img src="assets/LinkedIn_logo_initials.png" alt="assets/Google_Scholar_logo.svg.png" width="16px" /> [**Linkedin**](https://www.linkedin.com/in/aleksei-naumov-983636174)\
+> <img src="assets/Telegram_logo.svg.png" alt="assets/Google_Scholar_logo.svg.png" width="16px" /> [**Telegram**](https://t.me/aleksei_conf)\
+> <img src="assets/xl1POYLw_400x400.jpg" alt="assets/Google_Scholar_logo.svg.png" width="16px" /> [**Twitter**](https://twitter.com/naum_naum_naum)\
+> <img src="assets/Google_Scholar_logo.svg.png" alt="assets/Google_Scholar_logo.svg.png" width="16px" /> [**My Papers On Google Scholar**](https://scholar.google.com/citations?user=leIN9mMAAAAJ) \
+> 📄 [**My CV**](https://docs.google.com/document/d/1SiWth-cN8H7DJMDz5Dz3vsKRY1W-AkER7P7aQzQ3vzA/edit?usp=sharing)
 
-> <img src="assets/LinkedIn_logo_initials.png" alt="assets/LinkedIn_logo_initials.png" width="40px" /> 
-
-> **[Linkedin](https://www.linkedin.com/in/aleksei-naumov-983636174)**
-
-> <img src="assets/Telegram_logo.svg.png" alt="assets/Telegram_logo.svg.png" width="40px" /> 
-
-> **[Telegram](https://t.me/aleksei_conf)**
-
-> <img src="assets/xl1POYLw_400x400.jpg" alt="assets/xl1POYLw_400x400.jpg" width="40px" /> 
-
-> **[Twitter](https://twitter.com/naum_naum_naum)**
 
 ## About me
 
@@ -31,13 +24,6 @@
 
 Prior to that I was **leading an AI research team** in **Terra Quantum,** we published multiple works on On-Device AI in IEEE Conferences (you can read more info below)
 > 
-
-
-> <img src="assets/Google_Scholar_logo.svg.png" alt="assets/Google_Scholar_logo.svg.png" width="40px" /> [**My Papers On Google Scholar**](https://scholar.google.com/citations?user=leIN9mMAAAAJ)
-
-
-> 📄 [**My CV**](https://docs.google.com/document/d/1SiWth-cN8H7DJMDz5Dz3vsKRY1W-AkER7P7aQzQ3vzA/edit?usp=sharing)
-
 ---
 
 # 🛠️ My stack
@@ -83,23 +69,19 @@ Prior to that I was **leading an AI research team** in **Terra Quantum,** we pub
 
 # 🎓 Education
 
-> <img src="assets/msu_logo_new-white-modified.png" alt="assets/msu_logo_new-white-modified.png" width="40px" /> 
-
-> **Lomonosov’s Moscow State University ([QS #37 WORLD RANKINGS IN PHYSICS](https://www.topuniversities.com/university-subject-rankings/physics-astronomy?search=lomonosov))**
+> ### <img src="assets/msu_logo_new-white-modified.png" alt="assets/msu_logo_new-white-modified.png" width="40px" /> **Lomonosov’s Moscow State University ([QS #37 WORLD RANKINGS IN PHYSICS](https://www.topuniversities.com/university-subject-rankings/physics-astronomy?search=lomonosov))**
 
 ### BSc. of Physics With Applied Mathematics Specialization
 
 ### ⚛️ Relevant Coursework
 
-> **Mathematics and statistics:** Linear algebra, Probability & Statistics, Mathematical Analysis, Robotics.
+> **Mathematics and statistics:** Linear algebra, Probability & Statistics, Mathematical Analysis, Robotics. \
 > **Physics:** Fundamental Physics, Theoretical Mechanics, Quantum Theory, Physical Chemistry
 
 
 ### 🏆 Awards
 
-> <img src="assets/msu_logo_new-white-modified.png" alt="assets/msu_logo_new-white-modified.png" width="40px" />
-> **Winner of Lomonosov’s Physics Olympiad**
+> <img src="assets/msu_logo_new-white-modified.png" alt="assets/msu_logo_new-white-modified.png" width="40px" /> **Winner of Lomonosov’s Physics Olympiad**
 
 
-> <img src="assets/msu_logo_new-white-modified.png" alt="assets/msu_logo_new-white-modified.png" width="40px" />
-> **Best Bachelor’s Thesis Lomonosov’s MSU 2021** 
+> <img src="assets/msu_logo_new-white-modified.png" alt="assets/msu_logo_new-white-modified.png" width="40px" /> **Best Bachelor’s Thesis Lomonosov’s MSU 2021** 
